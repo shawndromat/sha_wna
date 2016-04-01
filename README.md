@@ -1,6 +1,7 @@
 # Digest::SHAWNA
 
-A fun hashing algorithm experiment
+A fun hashing algorithm experiment. First there was SHA-1, then there was SHA-2,
+now there is SHA-WNA.
 
 ## Installation
 
