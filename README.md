@@ -4,12 +4,6 @@ A fun hashing algorithm experiment
 
 ## Installation
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
     $ gem install sha_wna
 
 ## Usage
